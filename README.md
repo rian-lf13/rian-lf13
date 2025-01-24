@@ -1,4 +1,3 @@
-## Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E4BC0&height=120&section=header"/>
 
 
