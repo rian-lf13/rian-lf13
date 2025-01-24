@@ -11,7 +11,7 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 
 </br>
 
-## Utilizo:
+## Linguagens e Tecnologias:
 <div  align= "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rian-lf13&layout=donut)](https://github.com/rian-lf/github-readme-stats)
