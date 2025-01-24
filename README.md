@@ -29,7 +29,7 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rian-lf13&show_icons=true&theme=dracula)
 
-
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rian-lf13&layout=donut)](https://github.com/rian-lf/github-readme-stats)
 
