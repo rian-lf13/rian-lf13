@@ -12,13 +12,6 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 </br>
 
 ## Linguagens e Tecnologias:
-<div  align= "center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rian-lf13&layout=donut)](https://github.com/rian-lf/github-readme-stats)
-
-
-
-</div>
 
 <div style="display: inline_block" align="center"></br>
     <img style="align: center"alt= "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,9 +25,15 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 
 
 ### Status:
-<div align="center">
+<div align="center" style="display: inline_block">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rian-lf13&show_icons=true&theme=dracula)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rian-lf13&layout=donut)](https://github.com/rian-lf/github-readme-stats)
+
+
 </div>
 
 
