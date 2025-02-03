@@ -37,7 +37,6 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 </div>
 
 
-
 ## Contato:
 
 <p>Tem alguma sugestão, dúvida ou conselho? Compartilhe comigo!</p>
