@@ -31,7 +31,7 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rian-lf138&bg_color=5E4BC0&color=5E4BD0&line=8b66f0&point=9e08a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 </div>
