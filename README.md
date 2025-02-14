@@ -1,31 +1,34 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E4BC0&height=120&section=header"/>
 
-
-### Olá! Eu sou o Rian!🙋🏻‍♂️
+<h1 align="center">Olá! Eu sou o Rian!🙋🏻‍♂️</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5E4BC0&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo(a)+ao+meu+espa%C3%A7o!)](https://git.io/typing-svg)
 
-</br>
+<p align="center">Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. Também estou aprendendo Python para automação e análise de dados, e MySQL para trabalhar com bancos de dados.👨🏻‍💻</p>
 
-Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. Também estou aprendendo Python para automação e análise de dados, e MySQL para trabalhar com bancos de dados.👨🏻‍💻 
+###
 
-</br>
+<h2 align="center">Linguagens e Tecnologias:</h2>
 
-## Linguagens e Tecnologias:
+###
 
-<div style="display: inline_block" align="center"></br>
-    <img style="align: center"alt= "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img style="align: center"alt= "HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img style="align: center"alt= "CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img style="align: center"alt= "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img style="align: center"alt= "MySQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    
-</div></br>
+<br clear="both">
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+</div>
 
+###
 
-
-<h2 align="left">Stats:</h2>
+<h2 align="center">Status:</h2>
 
 ###
 
@@ -37,9 +40,25 @@ Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. També
 
 ###
 
-## Contato:
+<h2 align="center">Redes Sociais:</h2>
 
-<p>Tem alguma sugestão, dúvida ou conselho? Compartilhe comigo!</p>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rian-lopes-farias/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">Contato:</h2>
+
+###
+
+<p align="center">Tem alguma sugestão, dúvida ou conselho? Compartilhe comigo!</p>
+
+###
 
 </br>
 </br>
