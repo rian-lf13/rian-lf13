@@ -2,7 +2,11 @@
 
 <h1 align="center">Olá! Eu sou o Rian!🙋🏻‍♂️</h1>
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5E4BC0&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo(a)+ao+meu+espa%C3%A7o!)](https://git.io/typing-svg)</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5E4BC0&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo(a)+ao+meu+espa%C3%A7o!)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. Também estou aprendendo Python para automação e análise de dados, e MySQL para trabalhar com bancos de dados.👨🏻‍💻</p>
 
