@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E4BC0&height=120&section=header"/>
 
+
 <h1 align="center">Olá! Eu sou o Rian!🙋🏻‍♂️</h1>
 
 <div align="center">
@@ -11,6 +12,8 @@
 <p align="center">Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. Também estou aprendendo Python para automação e análise de dados, e MySQL para trabalhar com bancos de dados.👨🏻‍💻</p>
 
 <br>
+
+###
 
 <h2 align="center">Linguagens e Tecnologias:</h2>
 
@@ -66,14 +69,6 @@
 
 </br>
 </br>
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/rian-lopes-farias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-<a href = "mailto:rian.lopes.farias@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=dwhite" target="_blank"></a>
- </div>
-
- </br>
- </br>
 
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=5E4BC0&section=footer&rotate=0&reversal=true"/>
