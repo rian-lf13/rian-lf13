@@ -57,8 +57,6 @@ Também tenho conhecimentos em **HTML, CSS e JavaScript**, que me ajudam quando 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="windows logo"  />
-  <img width="12" />
   
 </div>
 
