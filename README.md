@@ -9,7 +9,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5E4BC0&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo(a)+ao+meu+espa%C3%A7o!)](https://git.io/typing-svg)
 
 
-<p align="center">Atualmente, possuo habilidades intermediárias em HTML, CSS e JavaScript. Também estou aprendendo Python para automação e análise de dados, e MySQL para trabalhar com bancos de dados.👨🏻‍💻</p>
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por tudo o que envolve transformar dados em decisões que fazem a diferença.👨🏻‍💻</p>
+
+No momento, estou focado em desenvolver habilidades na área de **Análise de Dados**, com ênfase em:
+- **Python** para automação, tratamento e visualização de dados 📊
+- **SQL (MySQL)** para manipulação e consulta de bancos de dados relacionais
+- **Excel intermediário** e **Power BI** como ferramentas de apoio na análise
+- Conceitos de **Estatística** e **Visual Storytelling** para dar mais sentido aos dados
+
+Também tenho conhecimentos em **HTML, CSS e JavaScript**, que me ajudam quando preciso criar soluções mais completas ou interfaces simples para projetos de dados.
+
+</br>
+</br>
+
+🛠️ Aqui no meu GitHub você vai encontrar:
+- Projetos práticos voltados para análise e visualização de dados
+- Scripts de automação com Python
+- Exercícios e estudos de SQL
+- Algumas ideias em construção (estou sempre aprendendo e melhorando!)
+
+</br>
+</br>
+
+📚 Estou sempre buscando aprender mais sobre:
+- Boas práticas de organização de dados
+- Limpeza, análise exploratória e modelagem
+- Como usar dados para contar histórias de forma clara e impactante
 
 </br>
 </br>
@@ -30,7 +55,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="windows logo"  />
+  <img width="12" />
+  
 </div>
 
 </br>
